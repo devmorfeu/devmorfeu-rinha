@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+!/Dockerfile
+!/mvnw.cmd
+!/mvnw
+!/.mvn/
+/.mvn/
